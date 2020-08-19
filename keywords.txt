@@ -1,0 +1,7 @@
+IR_sensor	KEYWORD1
+IR_read		KEYWORD2
+set_bw_val	KEYWORD2
+white_val	KEYWORD2
+black_val	KEYWORD2
+white_var	KEYWORD2
+black_var	KEYWORD2
